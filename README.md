@@ -1,7 +1,7 @@
 OSX Dope Login
 ===================
 
-This bash script makes your mac login screen have a randomly chosen PNG ONLY background image from a file you specify.
+This bash script makes your mac login screen have a randomly chosen PNG ONLY background image from ~/Pictures/wallpaper. Any time you open a terminal, you get a new background choice at login. (You can also pop it into Automator to run on login if you don't use the terminal much.)
 
 Installation
 -------------
